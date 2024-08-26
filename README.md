@@ -1,4 +1,4 @@
-# 2024.d2r2.aksw.org
+# sparql-ml.eu
 
 [![example workflow][build-shield]][github-actions] [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] [![CC BY-SA 4.0][mkdocs-shield]][mkdocs] [![made-with-Markdown][markdown-shield]](http://commonmark.org)
 
@@ -6,7 +6,7 @@ Shared repository of D2R2'24 web page
 
 | Branch       | Deployment |
 | :---         | :--- |
-| `main`       | [https://d2r2.aksw.org/](https://d2r2.aksw.org/) |
+| `main`       | [https://sparql-ml.eu/](https://sparql-ml.eu/) |
 
 ## License
 
@@ -14,8 +14,8 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-[github-actions]: https://github.com/aksw/2023.d2r2.aksw.org/actions
-[build-shield]: https://github.com/aksw/2023.d2r2.aksw.org/actions/workflows/test.yml/badge.svg
+[github-actions]: https://github.com/SPARQL-ML/sparql-ml.eu/actions
+[build-shield]: https://github.com/SPARQL-ML/sparql-ml.eu/actions/workflows/test.yml/badge.svg
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg

@@ -1,9 +1,9 @@
 [tool.poetry]
-name = "2023-d2r2-aksw-org"
+name = "sparql-ml-eu"
 version = "0.0.0"
-description = "Webpage of the 2023 D2R2 Workshop"
+description = "Webpage of the SPARQL-ML Project"
 authors = ["Sebastian Tramp <sebastian.tramp@eccenca.com>"]
-homepage = "https://github.com/aksw/2023.d2r2.aksw.org"
+homepage = "https://github.com/SPARQL-ML/sparql-ml.eu"
 readme = "README.md"
 packages = [{include = "tools"}]
 
