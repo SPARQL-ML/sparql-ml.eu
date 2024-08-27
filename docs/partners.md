@@ -1,8 +1,8 @@
 ---
 icon: "material/account-group"
-title: "Partner"
+title: "Partners"
 ---
-# Partner
+# ::material-account-group:: Partners
 
 ## [eccenca](https://eccenca.com)
 
