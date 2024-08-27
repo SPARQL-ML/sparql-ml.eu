@@ -1,5 +1,5 @@
 ---
-icon: "material/compass-outline"
+icon: "material/format-list-checks"
 title: "Work Plan"
 ---
 # Work Plan
