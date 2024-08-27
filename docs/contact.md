@@ -1,5 +1,5 @@
 ---
-icon: "material/account-group"
+icon: "material/contacts"
 title: "Contacts"
 ---
 # Contact

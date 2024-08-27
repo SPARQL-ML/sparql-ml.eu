@@ -1,5 +1,5 @@
 ---
-icon: "material/account-group"
+icon: "material/compass-outline"
 title: "Work Plan"
 ---
 # Work Plan
