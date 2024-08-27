@@ -1,10 +1,10 @@
 ---
-icon: "material/table-eye"
+icon: "material/compass-outline"
 title: "Overview"
 hide:
   - toc
 ---
-# ::material-table-eye:: Overview
+# ::material-compass-outline:: Overview
 
 ## Introduction
 
