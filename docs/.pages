@@ -1,4 +1,6 @@
 nav:
     - Home: index.md
-    - Partner: partner.md
+    - Overview: overview.md
+    - Partners: partners.md
+    - Contact: contact.md
 

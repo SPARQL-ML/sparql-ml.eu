@@ -1,6 +1,8 @@
 ---
 icon: material/home
 title: "SPARQL-ML"
+hide:
+  - toc
 ---
 # SPARQL-ML - Machine Learning for SPARQL Query Optimization over Centralized and Distributed RDF Knowledge Graphs
 
