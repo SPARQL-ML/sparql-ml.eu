@@ -13,7 +13,21 @@ hide:
 The SPARQL-ML project develops AI and machine-learning-based generic approaches for optimized query processing over large RDF Knowledge Graphs to facilitate the development of high-performance centralized and distributed data storage solutions.
 The final output will be a set of W3C-standard-conformant tools that implement Optimized SPARQL query execution on top of centralized and federated RDF Knowledge Graphs.
 
+## Funding
+
+!!! info inline end ""
+
+    ![Funding Logos](assets/eu-funding.jpg)
+    ![BMBF Funding Logo](assets/bmbf-funded.jpg)
+
+This project receives funding from of the [Eureka Eurostars programme](https://eurekanetwork.org/programmes/eurostars/) (Project ID: 5736), which is part of the [European Partnership on Innovative SMEs](https://eurekanetwork.org/about-us/european-partnership-on-innovative-smes/), in cooperation with the [German Federal Ministry of Education and Research (BMBF)](https://www.bmbf.de/).
+
 ## Latest News
+
+!!! info "2024-10-21 - Funding approved"
+
+    We are happy to announce that the first partners got the funding approval.
+    We are starting to organize our kick-off meeting now.
 
 !!! info "2024-08-26 - Website online 🚀"
 
