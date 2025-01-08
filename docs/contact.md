@@ -19,7 +19,7 @@ title: "Contacts"
 
     !!! info inline end ""
 
-        ![Edgard Marx](https://media.licdn.com/dms/image/v2/C4D03AQGHCefKbI8bSw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1581351743225?e=1730332800&v=beta&t=duzlUyhce0sg0Le7uRpyve0yKmWbe4Por3e2FDS7C7E)
+        ![Edgard Marx](https://github.com/AKSW/text2sparql.aksw.org/blob/develop/docs/assets/people/Edgard.png?raw=true)
 
     Edgard is Principal Data Scientist @ eccenca and **Technical Coordinator** of the SPARQL-ML Project.
 

@@ -24,6 +24,10 @@ This project receives funding from of the [Eureka Eurostars programme](https://e
 
 ## Latest News
 
+!!! info "2024-11-13 - Kick-off Meeting"
+
+    Today, we met in Leipzig to practically kick-off our project.
+
 !!! info "2024-10-21 - Funding approved"
 
     We are happy to announce that the first partners got the funding approval.
