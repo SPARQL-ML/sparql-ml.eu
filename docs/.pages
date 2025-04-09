@@ -1,6 +1,7 @@
 nav:
     - Home: index.md
     - Overview: overview.md
+    - Deliverables: deliverables.md
     - Partners: partners.md
     - Contact: contact.md
 
