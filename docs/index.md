@@ -28,11 +28,11 @@ This project receives funding from of the [Eureka Eurostars programme](https://e
 
 !!! info "2025-06-01 - LLM-TEXT2KG-Workshop - ESWC 2025 - Slovenia"
 
-eccenca organized this workshop which aims to explore the novel intersection of LLMs and KG generation, focusing on innovative approaches, best practices, and challenges.
+    eccenca organized this workshop which aims to explore the novel intersection of LLMs and KG generation, focusing on     innovative approaches, best practices, and challenges.
 
 !!! info "2025-05-25 - 1st Plenary Meeting - Paderborn"
 
-During our first plenary meeting we presented the first project outputs, reviewed query plans, and agreed that the next step will be testing in a customer environment to collect query runtimes
+    During our first plenary meeting we presented the first project outputs, reviewed query plans, and agreed that the      next step will be testing in a customer environment to collect query runtimes
 
 !!! info "2024-11-13 - Kick-off Meeting"
 
