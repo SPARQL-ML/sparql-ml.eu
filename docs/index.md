@@ -24,6 +24,23 @@ This project receives funding from of the [Eureka Eurostars programme](https://e
 
 ## Latest News
 
+!!! info "2025-09-25 - 2nd Plenary Meeting scheduled"
+
+    Our 2nd Plenary Meeting will take place on 2025-11-27 in London at our
+    partner Openlink.
+
+!!! info "2025-06-01 - LLM-TEXT2KG-Workshop - ESWC 2025 - Slovenia"
+
+    eccenca organized this workshop which aims to explore the novel intersection
+    of LLMs and KG generation, focusing on innovative approaches, best practices,
+    and challenges.
+
+!!! info "2025-05-25 - 1st Plenary Meeting - Paderborn"
+
+    During our first plenary meeting we presented the first project outputs,
+    reviewed query plans, and agreed that the
+    next step will be testing in a customer environment to collect query runtimes.
+
 !!! info "2024-11-13 - Kick-off Meeting"
 
     Today, we met in Leipzig to practically kick-off our project.
