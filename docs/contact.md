@@ -15,19 +15,6 @@ title: "Contacts"
     [:simple-linkedin:](https://www.linkedin.com/in/nievessande/)
 
 
-!!! info "Dr. Edgard Marx"
-
-    !!! info inline end ""
-
-        ![Edgard Marx](https://github.com/AKSW/text2sparql.aksw.org/blob/develop/docs/assets/people/Edgard.png?raw=true)
-
-    Edgard is Principal Data Scientist @ eccenca and **Technical Coordinator** of the SPARQL-ML Project.
-
-    [:simple-linkedin:](https://www.linkedin.com/in/edgardmarx/)
-    [:simple-github:](https://github.com/edgardmarx)
-    [:material-link:](https://aksw.org/EdgardMarx)
-
-
 !!! info "Dr. Sebastian Tramp"
 
     !!! info inline end ""
