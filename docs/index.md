@@ -18,9 +18,9 @@ The final output will be a set of W3C-standard-conformant tools that implement O
 !!! info inline end ""
 
     ![Funding Logos](assets/eu-funding.jpg)
-    ![BMBF Funding Logo](assets/bmbf-funded.jpg)
+    ![BMFTR Funding Logo](assets/bmftr-funded.png)
 
-This project receives funding from of the [Eureka Eurostars programme](https://eurekanetwork.org/programmes/eurostars/) (Project ID: 5736), which is part of the [European Partnership on Innovative SMEs](https://eurekanetwork.org/about-us/european-partnership-on-innovative-smes/), in cooperation with the [German Federal Ministry of Education and Research (BMBF)](https://www.bmbf.de/).
+This project receives funding from of the [Eureka Eurostars programme](https://eurekanetwork.org/programmes/eurostars/) (Project ID: 5736), which is part of the [European Partnership on Innovative SMEs](https://eurekanetwork.org/about-us/european-partnership-on-innovative-smes/), in cooperation with the [German Federal Ministry of Research, Technology and Space (BMFTR)](https://www.bmftr.bund.de/EN/Home/home_node.html).
 
 ## Latest News
 
