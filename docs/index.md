@@ -24,6 +24,10 @@ This project receives funding from of the [Eureka Eurostars programme](https://e
 
 ## Latest News
 
+!!! info "2026-05-10 Second International TEXT2SPARQL Challenge"
+
+    After the initial success, eccenca, together with AKSW, is organizing the [second edition of this workshop](https://text2sparql.aksw.org/2026/) to explore the emerging intersection of LLMs and knowledge graph generation, focusing on innovative approaches, best practices, and challenges. 
+
 !!! info "2025-09-25 - 2nd Plenary Meeting scheduled"
 
     Our 2nd Plenary Meeting will take place on 2025-11-27 in London at our
