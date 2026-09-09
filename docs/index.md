@@ -24,6 +24,12 @@ This project receives funding from of the [Eureka Eurostars programme](https://e
 
 ## Latest News
 
+
+!!! info "2026-06-12 - 3rd Plenary Meeting"
+
+    Our 3rd Plenary Meeting took place on 2026-06-09 in Leipzig,
+    hosted by our partner eccenca.
+
 !!! info "2026-05-10 Second International TEXT2SPARQL Challenge"
 
     After the initial success, eccenca, together with AKSW, is organizing the [second edition of this workshop](https://text2sparql.aksw.org/2026/) to explore the emerging intersection of LLMs and knowledge graph generation, focusing on innovative approaches, best practices, and challenges. 
